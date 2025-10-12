@@ -10,7 +10,7 @@
     <Description>Chaos.Testing - Testing helpers</Description>
     <Authors>Christian Flessa</Authors>
     <Copyright>Copyright © 2025 Christian Flessa</Copyright>
-    <PackageProjectUrl>https://github.com/chA0s-Chris/Testing</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/chA0s-Chris/Chaos.Testing</PackageProjectUrl>
     <PackageTags>Testing NUnit</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <DefineConstants>$(DefineConstants);$(AdditionalConstants)</DefineConstants>
