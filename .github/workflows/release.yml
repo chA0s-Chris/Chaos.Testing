@@ -9,7 +9,7 @@ on:
         default: '0.1.0'
 
 jobs:
-  ci:
+  build-and-publish:
     runs-on: ubuntu-latest
     permissions:
       contents: write
